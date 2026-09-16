@@ -102,8 +102,9 @@ worked
 - cat /root/root.txt 
 	- e5d3815c9a67ebbc47da7faf0fb8b7f0
 
-**- The flow of CAP
-**	
+
+The Flow of PCAP
+
 	- Gathering of information basic info like a nmap scan too find the ports and how the web page operates where there could be a vulnerability 
 	- You'll discover a IDOR in the Security Snapshot (5 Second PCAP + Analysis) due to it not actually starting from 1 but rather 0
 	- Downloading this PCAP file of 0 will give you a username and password, and the only useful place too use it would be SSH
