@@ -9,6 +9,7 @@
 **Reconnaissance and Port Scanning**
 
 nmap --top-ports 100 -sV -sC ***IP*** -oN ***outputFileName***
+
 Host is up (0.16s latency).
 Not shown: 97 closed tcp ports (reset)
 PORT   STATE SERVICE VERSION
