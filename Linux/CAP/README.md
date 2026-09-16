@@ -103,7 +103,7 @@ worked
 	- e5d3815c9a67ebbc47da7faf0fb8b7f0
 
 
-The Flow of PCAP
+The Flow of CAP
 
 	- Gathering of information basic info like a nmap scan too find the ports and how the web page operates where there could be a vulnerability 
 	- You'll discover a IDOR in the Security Snapshot (5 Second PCAP + Analysis) due to it not actually starting from 1 but rather 0
