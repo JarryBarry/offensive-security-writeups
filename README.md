@@ -7,6 +7,7 @@ A repository of penetration testing walkthroughs and methodology notes across la
 | Target | Platform | OS | Difficulty | Primary Attack Vector | Privilege Escalation |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | [Cap](hackthebox/linux/cap/) | Hack The Box | Linux | Easy | IDOR (PCAP Artifacts) | Linux Capabilities (`cap_setuid`) |
+| [TwoMillion](hackthebox/linux/twomillion/) | Hack The Box | Linux | Easy | Mass Assignment / Command Injection | CVE-2023-0386 (OverlayFS/FUSE) |
 
 ## Repository Structure
 
